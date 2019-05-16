@@ -1,0 +1,9 @@
+input {
+    display: block;
+    margin-bottom: 15px;
+}
+form {
+    border: 1px #ccc solid;
+    padding: 15px;
+    display: inline-block;
+}
